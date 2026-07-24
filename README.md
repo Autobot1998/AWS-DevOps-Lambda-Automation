@@ -3,8 +3,7 @@
 A collection of four self-contained AWS Lambda automation exercises built as part of a DevOps/Cloud Computing program. Each exercise covers a common operational automation pattern using Python 3.12 + Boto3, IAM least-privilege inline policies, and EventBridge scheduling/event triggers.
 
 ## Repository Structure
-```
-aws-devops-automation-labs/
+``'
 ├── README.md                            <- you are here
 ├── 01-s3-bucket-cleanup/
 │   ├── README.md
